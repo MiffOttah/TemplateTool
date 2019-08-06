@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TemplateTool": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Temp\\tt"
+    }
+  }
+}
